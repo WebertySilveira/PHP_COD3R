@@ -63,9 +63,52 @@
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=04&file=04.01">
-                                1. ?
+                                1. Tipo Inteiro
                             </a>
                         </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=04&file=04.02">
+                                2. Tipo Float
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=04&file=04.03">
+                                3. Operações
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=04&file=04.04">
+                                4. Desafio Precedência
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=04&file=04.05">
+                                5. Strings
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=04&file=04.06">
+                                6. Desafio String
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=04&file=04.07">
+                                7. Tipo Booleano
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=04&file=04.08">
+                                8. Conversões
+                            </a>
+                        </li>
+                        
                     </ul>
                 </div>
 
