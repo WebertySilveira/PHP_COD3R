@@ -1,4 +1,4 @@
-<div class="titulo">Desafio Seção 03</div>
+<div class="titulo">Desafio echo</div>
 
 <h3>Dê os resultados com PHP:</h3>
 <ul>

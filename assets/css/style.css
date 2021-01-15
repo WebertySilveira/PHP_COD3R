@@ -99,31 +99,31 @@ body {
     background-color: #eee;
 }
 
-[verde]      {border:1px solid #4CAF50;}
+[verde]      {border:2px solid #4CAF50;}
 [verde] > h3 {background-color: #4CAF50;}
 
-[vermelho]      {border:1px solid #F44336;}
+[vermelho]      {border:2px solid #F44336;}
 [vermelho] > h3 {background-color: #F44336;}
 
-[azul]      {border:1px solid #2196F3;}
-[azul] > h3 {background-color: #2196F3;}
+[azul]      {border:2px solid #4196F3;}
+[azul] > h3 {background-color: #4196F3;}
 
-[roxo]      {border:1px solid #9C27B0;}
+[roxo]      {border:2px solid #9C27B0;}
 [roxo] > h3 {background-color: #9C27B0;}
 
-[laranja]      {border:1px solid #FF9800;}
+[laranja]      {border:2px solid #FF9800;}
 [laranja] > h3 {background-color: #FF9800;}
 
-[verde-escuro]      {border:1px solid #1B5E20;}
+[verde-escuro]      {border:2px solid #1B5E20;}
 [verde-escuro] > h3 {background-color: #1B5E20;}
 
-[vermelho-escuro]      {border:1px solid #B71C1C;}
+[vermelho-escuro]      {border:2px solid #B71C1C;}
 [vermelho-escuro] > h3 {background-color: #B71C1C;}
 
-[azul-escuro]      {border:1px solid #0D47A1;}
+[azul-escuro]      {border:2px solid #0D47A1;}
 [azul-escuro] > h3 {background-color: #0D47A1;}
 
-[roxo-escuro]      {border:1px solid #4A148C;}
+[roxo-escuro]      {border:2px solid #4A148C;}
 [roxo-escuro] > h3 {background-color: #4A148C;}
 
 

@@ -21,45 +21,173 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
-                
-                <div verde class="modulo">
-                    <h3>Seção 03</h3>
+
+                <div laranja class="modulo">
+                    <h3>05. Array</h3>
                     <ul>
+
                         <li>
-                            <a href="exercicio.php?dir=03&file=03.01">
-                                1. Tags PHP
+                            <a href="exercicio.php?dir=07&file=07.01">
+                                1. Array
                             </a>
                         </li>
 
                         <li>
-                            <a href="exercicio.php?dir=03&file=03.02">
-                                2. Integração com HTML
+                            <a href="exercicio.php?dir=07&file=07.02">
+                                2. Mapa
                             </a>
                         </li>
 
                         <li>
-                            <a href="exercicio.php?dir=03&file=03.03">
-                                3. Integração com CSS
+                            <a href="exercicio.php?dir=07&file=07.03">
+                                3. Desafio Array
                             </a>
                         </li>
 
                         <li>
-                            <a href="exercicio.php?dir=03&file=03.04">
-                                4. Comentários PHP
+                            <a href="exercicio.php?dir=07&file=07.04">
+                                4. Desafio Meses
                             </a>
                         </li>
 
                         <li>
-                            <a href="exercicio.php?dir=03&file=03.05">
-                                5. Desafio Seção 03
+                            <a href="exercicio.php?dir=07&file=07.05">
+                                5. Operações
                             </a>
                         </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=07&file=07.06">
+                                6. Desafio Sorteio
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=07&file=07.07">
+                                7. Multidimensional e Constante
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=07&file=07.08">
+                                8. GET | POST
+                            </a>
+                        </li>
+
                     </ul>
                 </div>
 
+                <div roxo class="modulo">
+                    <h3>04. Estruturas de Controle #1</h3>
+                    <ul>
+
+                        <li>
+                            <a href="exercicio.php?dir=06&file=06.01">
+                                1. IF/ELSE
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=06&file=06.02">
+                                2. Operadores relacionais
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=06&file=06.03">
+                                3. Desafio PI
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=06&file=06.04">
+                                4. Operadores Lógicos
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=06&file=06.05">
+                                5. Desafio Operadores Lógicos
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=06&file=06.06">
+                                6. Operador Ternário
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=06&file=06.07">
+                                7. Switch
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=06&file=06.08">
+                                8. Desafio Switch
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div azul class="modulo">
+                    <h3>03. Variáveis</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=05&file=05.01">
+                                1. Variáveis
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=05&file=05.02">
+                                2. Desafio Equação
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=05&file=05.03">
+                                3. Atribuições
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=05&file=05.04">
+                                4. Interpolação
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=05&file=05.05">
+                                5. Variáveis variáveis
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=05&file=05.06">
+                                6. Desafio de variáveis variáveis
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=05&file=05.07">
+                                7. Valor vs Referência
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=05&file=05.08">
+                                8. Constantes
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
 
                 <div vermelho class="modulo">
-                    <h3>Seção 04</h3>
+                    <h3>02. Tipos</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=04&file=04.01">
@@ -109,6 +237,41 @@
                             </a>
                         </li>
                         
+                    </ul>
+                </div>
+                
+                <div verde class="modulo">
+                    <h3>01. Básico</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=03&file=03.01">
+                                1. Tags PHP
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=03&file=03.02">
+                                2. Integração com HTML
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=03&file=03.03">
+                                3. Integração com CSS
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=03&file=03.04">
+                                4. Comentários PHP
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=03&file=03.05">
+                                5. Desafio Echo
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
