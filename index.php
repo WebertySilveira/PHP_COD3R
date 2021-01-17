@@ -22,8 +22,142 @@
         <div class="conteudo">
             <nav class="modulos">
 
+                <div vermelho-escuro class="modulo">
+                    <h3>09. Funções</h3>
+                    <ul>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.01">
+                                1. Função e Escopo
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.02">
+                                2. Argumentos e retorno
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.03">
+                                3. Desafio Palindromo
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.04">
+                                4. Argumentos Variáveis
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.05">
+                                5. Argumento Padrão
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.06">
+                                6. Declarando Tipos
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.07">
+                                7. Função anônima
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.08">
+                                8. Closure e Callable
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.09">
+                                9. Recursividade
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.10">
+                                9. Desafio Recursividade
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.11">
+                                10. Retornando Função
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=09&file=09.12">
+                                11. Map | Filter
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div verde-escuro class="modulo">
+                    <h3>08. Estruturas de Controle #2</h3>
+                    <ul>
+
+                        <li>
+                            <a href="exercicio.php?dir=08&file=08.01">
+                                1. For
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=08&file=08.02">
+                                2. Desafio For
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=08&file=08.03">
+                                3. Foreach
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=08&file=08.04">
+                                4. Break | Continue
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=08&file=08.05">
+                                5. Do While | While
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=08&file=08.06">
+                                6. Desafio Impressão
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=08&file=08.07">
+                                7. Desafio Tabela #1
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=08&file=08.08">
+                                8. Desafio Tabela #2
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
                 <div laranja class="modulo">
-                    <h3>05. Array</h3>
+                    <h3>07. Array</h3>
                     <ul>
 
                         <li>
@@ -78,7 +212,7 @@
                 </div>
 
                 <div roxo class="modulo">
-                    <h3>04. Estruturas de Controle #1</h3>
+                    <h3>06. Estruturas de Controle #1</h3>
                     <ul>
 
                         <li>
@@ -133,7 +267,7 @@
                 </div>
 
                 <div azul class="modulo">
-                    <h3>03. Variáveis</h3>
+                    <h3>05. Variáveis</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=05&file=05.01">
@@ -187,7 +321,7 @@
                 </div>
 
                 <div vermelho class="modulo">
-                    <h3>02. Tipos</h3>
+                    <h3>04. Tipos</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=04&file=04.01">
@@ -241,7 +375,7 @@
                 </div>
                 
                 <div verde class="modulo">
-                    <h3>01. Básico</h3>
+                    <h3>03. Básico</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=03&file=03.01">
