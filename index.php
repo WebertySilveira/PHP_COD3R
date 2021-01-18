@@ -22,6 +22,91 @@
         <div class="conteudo">
             <nav class="modulos">
 
+                <div azul-escuro class="modulo">
+                    <h3>10. Orientação a objetos</h3>
+                    <ul>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.01">
+                                1. Primeira Classe
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.02">
+                                2. Desafio Data
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.03">
+                                3. Construtor | Destrutor
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.04">
+                                4. Herança
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.05">
+                                5. Visibilidade
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.06">
+                                6. Membros Estáticos
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.07">
+                                7. Interface
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.08">
+                                8. Classe Abstrata
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.09">
+                                9. Desafio 7 Erros
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.10">
+                                10. Modificador Final
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.11">
+                                11. Traits
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.12">
+                                12. Métodos Mágicos
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=10&file=10.13">
+                                13. Polimorfismo
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
                 <div vermelho-escuro class="modulo">
                     <h3>09. Funções</h3>
                     <ul>
