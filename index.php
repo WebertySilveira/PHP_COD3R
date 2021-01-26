@@ -22,13 +22,38 @@
         <div class="conteudo">
             <nav class="modulos">
 
+                <div laranja-escuro class="modulo">
+                    <h3>12. Namespace</h3>
+                    <ul>
+
+                        <li>
+                            <a href="exercicio.php?dir=12&file=12.01">
+                                1. Introdução
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=12&file=12.02">
+                                2. Sub Namespace
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=12&file=12.03">
+                                3. USE | AS
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
                 <div roxo-escuro class="modulo">
                     <h3>11. Includes</h3>
                     <ul>
 
                         <li>
                             <a href="exercicio.php?dir=11&file=11.01">
-                                1. Includes
+                                1. Introdução
                             </a>
                         </li>
 
