@@ -22,6 +22,49 @@
         <div class="conteudo">
             <nav class="modulos">
 
+                <div roxo-escuro class="modulo">
+                    <h3>11. Includes</h3>
+                    <ul>
+
+                        <li>
+                            <a href="exercicio.php?dir=11&file=11.01">
+                                1. Includes
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=11&file=11.02">
+                                2. Include em Funções
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=11&file=11.03">
+                                3. Include vs Require
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=11&file=11.04">
+                                4. Require & retorno
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=11&file=11.05">
+                                5. Include|Require Once
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=11&file=11.06">
+                                6. Desafio Require OO
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
                 <div azul-escuro class="modulo">
                     <h3>10. Orientação a objetos</h3>
                     <ul>
