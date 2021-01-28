@@ -22,6 +22,63 @@
         <div class="conteudo">
             <nav class="modulos">
 
+                <div vermelho class="modulo">
+                    <h3>14. Sessão e Cookie</h3>
+                    <ul>
+
+                        <li>
+                            <a href="exercicio.php?dir=14&file=14.01">
+                                1. Sessão
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=14&file=14.02">
+                                2. Gerenciando Sessão
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=14&file=14.03">
+                                3. Login
+                            </a>
+                        </li>
+
+
+                    </ul>
+                </div>
+
+                <div verde class="modulo">
+                    <h3>13. Tratamento de Erros</h3>
+                    <ul>
+
+                        <li>
+                            <a href="exercicio.php?dir=13&file=13.01">
+                                1. Try | Catch
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=13&file=13.02">
+                                2. Erros personalizados
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=13&file=13.03">
+                                3. Desafio IntDiv
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=13&file=13.04">
+                                4. Error Handler
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
                 <div laranja-escuro class="modulo">
                     <h3>12. Namespace</h3>
                     <ul>
